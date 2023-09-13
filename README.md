@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **React native**
 
-- 👨‍💻 All of my projects are available at [https://subhodeep.vercel.app](https://subhodeep.vercel.app)
+- 👨‍💻 All of my projects are available at [https://subhodeepdey.com/projects](https://subhodeepdey.com/projects)
 
 - 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, Postgresql**
 
-- 📫 How to reach me **sdeysocial@gmail.com**
+- 📫 How to reach me **hello@subhodeepdey.com**
 
-- 📄 Know about my experiences [https://subhodeep.vercel.app/assets/Resume2.1.pdf](https://subhodeep.vercel.app/assets/Resume2.1.pdf)
+- 📄 Know about my experiences [https://subhodeepdey.com/about.html](https://subhodeepdey.com/about.html)
 
 - ⚡ Fun fact:- Spiders are the only web developers who love finding bugs
 
