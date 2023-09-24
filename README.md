@@ -15,6 +15,9 @@
 
 - ⚡ Fun fact:- Spiders are the only web developers who love finding bugs
 
+![Tracker](https://komarev.com/ghpvc/?usernamesubhodeep-dey&style=flat-square)
+[![LinkedIn](https://img.shields.io/twitter/url?color=555555&label=Subhodeep%20Dey&logo=linkedin&style=flat-square&url=https%3A%2F%2Flinkedin.com%2Fsubhodeep-dey)](https://linkedin.com/in/subhodeep-dey)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sdeysocial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Subhodeep Dey" height="30" width="40" /></a>
