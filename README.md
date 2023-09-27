@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React native**
 
-- 👨‍💻 All of my projects are available at [https://subhodeepdey.com/projects](https://subhodeepdey.com/projects)
+- 👨‍💻 All of my projects are available at [https://subhodeepdey.com/projects.html](https://subhodeepdey.com/projects.html)
 
 - 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, Postgresql**
 
