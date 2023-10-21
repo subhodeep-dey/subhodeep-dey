@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Subhodeep Dey</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A backend developer from India</h3>
 <!-- <img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"> -->
 
 
-- 🌱 I’m currently learning **React native**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://subhodeepdey.com/projects.html](https://subhodeepdey.com/projects.html)
 
